@@ -16,7 +16,7 @@ func main() {
 	fmt.Println("Enter number here")
 	fmt.Scan(&input_number)
 	for i := 1; i <= 10; i++ {
-		fmt.Printf("%v X %v = %v\n", input_number , i , (input_number*i))
+		fmt.Printf("%v X %v = %v\n", input_number, i, (input_number * i))
 	}
 
 }
