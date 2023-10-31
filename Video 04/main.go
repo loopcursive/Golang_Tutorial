@@ -4,7 +4,6 @@ import (
 	"fmt"
 )
 
-
 // var age = 18
 
 func main() {
@@ -21,13 +20,13 @@ func main() {
 	// var num1 = 10
 	// var num2 = 20
 
-	var num1 , num2 = 10 , 20
+	var num1, num2 = 10, 20
 
 	fmt.Println(num1)
 	fmt.Println(num2)
 
 	var (
-		num3 = 30 
+		num3 = 30
 		num4 = 40
 		num5 = 50
 	)
@@ -52,13 +51,7 @@ func main() {
 	var MyFriendName = "Abhishek Kumar"
 	fmt.Println(MyFriendName)
 
-
-
-
 	var my_friend_name = "Abhishek Kumar"
 	fmt.Println(my_friend_name)
-
-
-	
 
 }
