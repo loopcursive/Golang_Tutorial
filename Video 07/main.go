@@ -41,6 +41,6 @@ func main() {
 
 	var one = 12
 	var two = 23
-	fmt.Println(one+two)
+	fmt.Println(one + two)
 
 }
