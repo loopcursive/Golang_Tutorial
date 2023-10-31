@@ -28,7 +28,7 @@ To get started:
 
 If you have questions or feedback, reach out to us on our YouTube channel.
 
-- [LoopCursive YouTube Channel](https://www.youtube.com/loopcursive)
+- [LoopCursive YouTube Channel](https://www.youtube.com/@LoopCursive)
 
 Thanks for being a part of LoopCursive, and happy coding with Golang!
 
