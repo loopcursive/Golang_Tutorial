@@ -5,12 +5,12 @@ import (
 )
 
 func main() {
-	
+
 	// var number = 10.2
 	// fmt.Println(number)
 	// var int_number = int(number)
 	// fmt.Printf("%v\n" , int_number)
-	// fmt.Println(int_number) 
+	// fmt.Println(int_number)
 
 	// var num int = 12
 	// var fnum = float32(num)
