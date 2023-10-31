@@ -9,12 +9,12 @@ func main() {
 	fmt.Println(add(7))
 
 	var value = add(10)
-	fmt.Println(value+100)
-	
+	fmt.Println(value + 100)
+
 }
 
-func add(x int)int{
-	square := x*x
+func add(x int) int {
+	square := x * x
 	return square
-// 
+	//
 }
