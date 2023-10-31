@@ -10,11 +10,11 @@ func main() {
 	fmt.Scan(&input)
 	var sum = 0
 	for i := 1; i <= input; i++ {
-		if i % 2 == 0 {
+		if i%2 == 0 {
 			fmt.Println(i)
-		    sum = sum + i
+			sum = sum + i
 		}
-		
+
 	}
 	fmt.Println(sum)
 
