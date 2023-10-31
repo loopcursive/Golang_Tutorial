@@ -1,6 +1,10 @@
 package main
-import("fmt")
-func main(){
+
+import (
+	"fmt"
+)
+
+func main() {
 	// var age = 10
 	// fmt.Println(age)
 	var age int
@@ -15,5 +19,4 @@ func main(){
 
 	fmt.Println(age + age_2)
 
-	
 }
