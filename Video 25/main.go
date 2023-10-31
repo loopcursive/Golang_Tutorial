@@ -12,10 +12,10 @@ func main() {
 	// number[1] = 100
 	// fmt.Println(number)
 
-	 var num2 = [...]int{1,2,3,4,5}
+	var num2 = [...]int{1, 2, 3, 4, 5}
 	//  fmt.Println(num2)
 
-	 for i := 0; i < len(num2); i++ {
+	for i := 0; i < len(num2); i++ {
 		fmt.Println(num2[i])
-	 }
+	}
 }
