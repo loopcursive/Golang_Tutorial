@@ -1,6 +1,10 @@
 package main
-import ("fmt")
-func main(){
+
+import (
+	"fmt"
+)
+
+func main() {
 	// var number1 = 1
 	// var number2 = 2
 	// var number3 = 3
@@ -15,5 +19,5 @@ func main(){
 	for i := 10; i <= 101; i++ {
 		fmt.Println(i)
 	}
-	
+
 }
