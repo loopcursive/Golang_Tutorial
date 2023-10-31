@@ -15,5 +15,5 @@ func main() {
 	// fmt.Println(strings.Count(name , "b"))
 	// fmt.Println(strings.Split(name , "i"))
 	fmt.Println(strings.Replace(name, "A", "Kumar", 2))
-
+ 
 }
