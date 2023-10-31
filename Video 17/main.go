@@ -9,9 +9,8 @@ func main() {
 
 	if number == 20 {
 		fmt.Println("Yes")
-	}else if number == 10 {
+	} else if number == 10 {
 		fmt.Println("No")
 	}
-
 
 }
