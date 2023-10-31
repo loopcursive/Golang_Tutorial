@@ -12,7 +12,7 @@ func main() {
 	/*
 	   87yiuhy
 	     fmt.Println("Kumar")
-	     fmt.Println("Kumar")	   
+	     fmt.Println("Kumar")
 	*/
 
 }
