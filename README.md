@@ -4,7 +4,7 @@ Welcome to the LoopCursive GitHub repository! This is where you'll find the Gola
 
 ## About LoopCursive
 
-LoopCursive is a YouTube channel dedicated to teaching the Go programming language. My mission is to make learning Go easy and accessible.
+LoopCursive is a YouTube channel dedicated to teaching programming languages. My mission is to make learning Go easy and accessible.
 
 ## What's Inside
 
@@ -32,4 +32,4 @@ If you have questions or feedback, reach out to us on our YouTube channel.
 
 Thanks for being a part of LoopCursive, and happy coding with Golang!
 
-![LoopCursive Logo](loopcursive_logo.png)
+![LoopCursive - Elevate Your Skills](loopcursive_logo.png)
