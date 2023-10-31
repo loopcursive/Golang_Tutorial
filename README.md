@@ -32,4 +32,4 @@ If you have questions or feedback, reach out to us on our YouTube channel.
 
 Thanks for being a part of LoopCursive, and happy coding with Golang!
 
-![LoopCursive - Elevate Your Skills](loopcursive_logo.png)
+![LoopCursive - Elevate Your Skills](Go-Logo_Blue.png)
