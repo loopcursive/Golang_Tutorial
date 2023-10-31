@@ -1,8 +1,12 @@
 package main
-import("fmt")
-func main(){
 
-	// area of rectangle 
+import (
+	"fmt"
+)
+
+func main() {
+
+	// area of rectangle
 
 	var length int
 	fmt.Println("Enter legth")
@@ -19,6 +23,6 @@ func main(){
 	var age int
 	fmt.Println("Enter age")
 	fmt.Scan(&age)
-	fmt.Printf("Your name is %v and age is %v" , name , age)
+	fmt.Printf("Your name is %v and age is %v", name, age)
 
 }
