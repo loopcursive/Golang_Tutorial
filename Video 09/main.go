@@ -1,6 +1,10 @@
-package main 
-import("fmt")
-func main(){
+package main
+
+import (
+	"fmt"
+)
+
+func main() {
 	// var number_1 = 10
 	// var number_2 = 2
 	// fmt.Println(number_1)
@@ -24,6 +28,5 @@ func main(){
 	fmt.Println(num_1)
 	num_1--
 	fmt.Println(num_1)
-
 
 }
