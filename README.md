@@ -17,7 +17,7 @@ To get started:
 1. **Clone the Repository**: Use this command to copy the code to your local machine:
 
     ```bash
-     git clone https://github.com/1171abhi/loopcursive.git
+     git https://github.com/loopcursive/Golang_Tutorial.git
     ```
 
 2. **Explore the Code**: Navigate to the folder corresponding to the lecture or topic you're interested in.
